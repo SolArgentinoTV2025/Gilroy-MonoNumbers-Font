@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Gilroy Mono';
+  src: url('Gilroy Bold MonoNums.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
